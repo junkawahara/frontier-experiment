@@ -14,7 +14,7 @@ http://www.cs.bgu.ac.il/~dinitz/Course/SS-12/Backtrack%20Algorithm%20for%20Listi
 The format of the input graph is an adjacency list.
 The vertex numbers are given as natural numbers which start from 1.
 The i-th line of the input text has vertex numbers which are adjacent to the i-th vertex 
-separated by a space.
+and are larger than i, separated by a space.
 
 For example:
 ```

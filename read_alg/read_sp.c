@@ -22,7 +22,7 @@
 // This program counts the number of spanning trees on an input graph
 // using read's algorithm.
 //
-// See the following paper and pptx slide:
+// The detail of the algorithm is described in the following paper and pptx slide:
 //
 // R. C. Read and R. E. Tarjan; "Bounds on backtrack algorithms for listing
 // cycles, paths, and spanning trees"; Networks, No. 5, p.p. 237--252, 1975.
@@ -32,7 +32,7 @@
 // The format of the input graph is an adjacency list.
 // The vertex numbers are given as natural numbers which start from 1.
 // The i-th line of the input text has vertex numbers which are adjacent to the i-th vertex 
-// separated by a space.
+// and are larger than i, separated by a space.
 
 
 

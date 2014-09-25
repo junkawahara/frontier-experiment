@@ -25,3 +25,11 @@ For example:
 ```
 represents the graph which has four vertices and four edges
 (1--2, 1--3, 1--4 and 2--3).
+
+
+Usage:
+```
+make
+./read_sp < input.txt
+```
+

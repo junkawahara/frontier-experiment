@@ -1,4 +1,4 @@
-read_alg
+Read's spanning tree enumeration algorithm
 ===================
 
 This program counts the number of spanning trees on an input graph

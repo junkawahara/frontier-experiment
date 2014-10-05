@@ -9,7 +9,7 @@ Installation:
 1. Clone this project.
 
 2. Download simpath.w (written by D. Knuth) from http://www-cs-faculty.stanford.edu/~uno/programs/simpath.w
-    and put it into the directory same as myheader.h
+    and put it into the directory same as that of myheader.h.
 
 3. make
 
@@ -27,3 +27,7 @@ For example:
 ```
 represents the graph which has four vertices and four edges
 (1--2, 1--3, 1--4 and 2--3).
+
+'simpath-silent' program is the same as 'simpath' except for outputting the constructed ZDD into the memory
+instead of stdin.
+

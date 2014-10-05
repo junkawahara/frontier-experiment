@@ -29,5 +29,5 @@ represents the graph which has four vertices and four edges
 (1--2, 1--3, 1--4 and 2--3).
 
 'simpath-silent' program is the same as 'simpath' except for outputting the constructed ZDD into the memory
-instead of stdin.
+instead of stdout.
 

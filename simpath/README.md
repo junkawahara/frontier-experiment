@@ -12,3 +12,18 @@ Installation:
     and put it into the directory same as myheader.h
 
 3. make
+
+The format of the input graph is an adjacency list.
+The vertex numbers are given as natural numbers which start from 1.
+The i-th line of the input text has vertex numbers which are adjacent to the i-th vertex 
+and are larger than i, separated by a space.
+
+For example:
+```
+2 3 4
+3
+
+
+```
+represents the graph which has four vertices and four edges
+(1--2, 1--3, 1--4 and 2--3).
